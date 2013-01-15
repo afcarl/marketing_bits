@@ -13,7 +13,7 @@ Which reads personal and which does not?
 
     Bad: 
     
-    The information you requested.   
+    The information you requested. 
     
 
     Good: 

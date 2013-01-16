@@ -1,3 +1,5 @@
+<p><a href="http://eepurl.com/t2tyL">Get Marketing Bits delivered to your inbox, and learn more from exclusive content not posted publicly on github. No Spam. All handled securely by Mail Chimp.</a></p>
+
 You can build software. But can you sell it?
 ============================================
 
@@ -20,16 +22,6 @@ Full stack software engineer and marketer, with more than six years of professio
 Building and marketing all types of systems from e-commerce, to high-demand APIs, to
 payment platforms. Also have experience marketing non-tech products and e-books.
 Get in touch at orangethirty@gmail.com 
-
-
-
-
-
-
-
-
-<p><a href="http://eepurl.com/t2tyL">Get Marketing Bits delivered to your inbox. No Spam. All handled securely by Mail Chimp.</a></p>
-
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.

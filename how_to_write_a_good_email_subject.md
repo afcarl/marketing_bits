@@ -26,8 +26,7 @@ Its a great solution to a costly problem. You had a costly marketing problem,
 and I contacted you to fix it. Weren't you happy I did? Of course, because now
 you get to sell your product with more ease.
 
-1. Realize that you are not bothering most people if your product actually 
-solves a problem.
+**Realize that you are not bothering most people if your product actually solves a problem.**
 
 Now, you also need to know that the most important part of an email marketing
 campaign is the email subject. If people don't open the email, then no one will
@@ -35,7 +34,7 @@ learn about your great product. So we need to focus on making sure that email su
 is good. You will need to test which email subject works better than others. This
 is a must if you want to get good results.
 
-2. Testing is obligatory if you want success.
+**Testing is obligatory if you want success.**
 
 John looked at me and said "What does that have to do with anything?"
 "Its very important, John" - I said. Because if you really believe that
@@ -49,8 +48,8 @@ Then John asked:
 
 "Ok. I get it. But how do I write the dammned thing?"
 
-3. You want to use a personal tone for emails. Write as if you were
-talking to someone you knew. Instead of writing subjects like:
+**You want to use a personal tone for emails.** 
+Write as if you were talking to someone you knew. Instead of writing subjects like:
 
     $product will save you thousands of dollars on $problem.
     

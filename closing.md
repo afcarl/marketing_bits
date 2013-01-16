@@ -3,7 +3,7 @@ Closing.
 
 *Always Be Closing.*
 
-How do you close? Many book shave been written on the subject. One thing I've learned over the years is that closing is about
+How do you close? Many books have been written on the subject. One thing I've learned over the years is that closing is about
 one thing, and one thing only: 
 
     Closing is about **pushing** people to buy.

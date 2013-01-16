@@ -2,7 +2,7 @@ The call to action.
 ===================
     
 One common mistake businesses make is to forget to include a call to action. I see this constantly
-in advertisements/landing pages written by programmerr and startups. They seem to think that their ad
+in advertisements/landing pages written by programmers and startups. They seem to think that their ad
 is so logically written that the prospect will immediately understand what to do next.
 I'm sorry, but people don't have time to figure out what comes next. Plus, they are too 
 lazy to do so. Don't let the success of your ad be on the hands of the lazy. Tell

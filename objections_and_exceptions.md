@@ -6,10 +6,14 @@ These seemingly cute things are your worst nightmare when it comes to selling.
 Think about it! What is the first thing you think about when considering a product?
 The price, maybe? What if its too high? You object to the price, of course.
 Think of objections like exceptions that run in the minds of prospects
-when they are considering buying your product..
+when they are considering buying your product.
 
+    Read it again because this is important!
+    
+    
+     
     Objections are like exceptions that run in the minds of prospects 
-    when they are considering buying your product..
+    when they are considering buying your product.
 
 Like exceptions in your program, you must handle them correctly. You simple cannot
 ignore them. Face them. Challenge them. Make people think twice about their objections.

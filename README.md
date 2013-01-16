@@ -1,8 +1,34 @@
-Marketing Bits
-==============
+You can build software. But can you sell it?
+============================================
+
+I've spent half of my life learning how to sell stuff. Nowdays, I'm a software
+engineer and marketing consultant. I build and help sell software. This gives
+me very valuable knowledge that I'm now sharing with you.
+
+That is why Marketing Bits exists. To share and showcase all the insight I've
+gained over the years. Topics include (online and offline) marketing, sales, copywriting, public relations,
+and more.
+
+Marketing Bits are free to read online. In the near future, I will offer all
+Marketing Bits plus ready-to-use marketing tools in digital formats, for you
+to purchase and download. But you don't need to purchase anything if you read it
+online.
+
+About me:
+
+Full stack software engineer and marketer, with more than six years of professional experience.
+Building and marketing all types of systems from e-commerce, to high-demand APIs, to
+payment platforms. Also have experience marketing non-tech products and e-books.
+Get in touch at orangethirty@gmail.com 
 
 
-<p><a href="http://eepurl.com/t2tyL">Have it delivered to your inbox. No Spam. All handled securely by Mail Chimp.</a></p>
+
+
+
+
+
+
+<p><a href="http://eepurl.com/t2tyL">Get Marketing Bits delivered to your inbox. No Spam. All handled securely by Mail Chimp.</a></p>
 
 
 
@@ -13,6 +39,6 @@ orangethirty@gmail.com
 
 
 
-*Note: Digital formats (pdf, Epub, etc. coming soon).*
+
 
 

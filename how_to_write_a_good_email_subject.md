@@ -19,7 +19,7 @@ to write email subjects. He was very skeptical but at the end of the meeting
 was quickly writing good email messages that would ultimately prove to test positive
 (and in the process sell his products).
 
-####I'm now going to tell you what I told John. 
+####I'm now going to tell you what I told John in that meeting. 
 
 John, you have to realize one thing. People need to learn about your product.
 Its a great solution to a costly problem. You had a costly marketing problem,
@@ -37,14 +37,13 @@ is a must if you want to get good results.
 
 2. Testing is obligatory if you want success.
 
-
 John looked at me and said "What does that have to do with anything?"
 "Its very important, John" - I said. Because if you really believe that
-your product helps people then writing to them to spread the word will be
+your product helps people, then writing to them will be
 so much easier. His eyes opened up when he realized the point. And let me add
 that the tool to measure how many people are learning about your solution
 is called A/B testing. If you don't test, you will not be able to 
-communicate your message effectively. 
+communicate your message effectively. I will cover A/B testing in a future Marketing Bit.
 
 Then John asked:
 
@@ -55,9 +54,9 @@ talking to someone you knew. Instead of writing subjects like:
 
     $product will save you thousands of dollars on $problem.
     
-You should write in this way:
+You should write:
 
-    My name is John. I developed $product. It aims to people who have issues
+    My name is John. I developed $product. It aims to help people who have issues
     with $problem.
     
 

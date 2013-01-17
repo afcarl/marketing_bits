@@ -41,6 +41,8 @@ a {
   text-decoration: none;
 }
 
+.subscribe {color: #000; text-decoration: underline;}
+
 p {
   margin: 0 0 20px;
   padding: 0;

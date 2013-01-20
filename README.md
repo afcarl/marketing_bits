@@ -1,6 +1,6 @@
 <p><a href="http://eepurl.com/t2tyL">Get Marketing Bits delivered to your inbox, and learn more from exclusive content not posted publicly on github. No Spam. All handled securely by Mail Chimp.</a></p>
 
-You can build software. But can you sell it?
+Learn Real-World <u>Actionable</u> Marketing Know-How.
 ============================================
 
 I've spent half of my life learning how to sell stuff. Nowdays, I'm a software

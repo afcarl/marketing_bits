@@ -20,14 +20,14 @@ these keywords.
 
 **An example**
 
-    &lttitle&gtLearn how to write Ruby on Rails applications.&lt/title&gt
+    <title>Learn how to write Ruby on Rails applications.</title>
     
-    &lth1&gtWrite Ruby on Rails applications with ease.&lt/h1&gt
+    <h1>Write Ruby on Rails applications with ease.</h1>
     
-    &lth2&gtThe MVC pattern in Rails.&lt/h2&gt
+    <h2>The MVC pattern in Rails.</h2>
     
-    &ltp&gtRuby on Rails is an MVC framework. It is desgined to get your 
-    applications running with the least amount of development time.&lt/p&gt
+    <p>Ruby on Rails is an MVC framework. It is desgined to get your 
+    applications running with the least amount of development time.</p>
     
 
 In the example, the keywords are:

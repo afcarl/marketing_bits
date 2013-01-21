@@ -101,3 +101,7 @@ One long sentence ( > 10 words). Another medium. A short one. Long. Medium.
 Now write a paragraph another paragraph composed of long sentences (same subject).
 
 Which one was easier to write, much less read?
+
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

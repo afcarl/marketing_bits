@@ -37,6 +37,6 @@ of maintaining more code. But my results have proved positive most of the time.
 Test it.
 
 
-
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>
 
 [1]From my own tests.

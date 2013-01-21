@@ -54,3 +54,7 @@ Make sure to post it on every social media site out there so that people know yo
 
 Don't do immediately after the issue arose. Wait at least a week!
 This does not work for every PR disaster. YMMV. Consult your marketer.
+
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

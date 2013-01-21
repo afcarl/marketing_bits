@@ -121,4 +121,4 @@ Whithin that material you should find some very valuable points to guide you
 in writing your email subject.
 
 
-
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

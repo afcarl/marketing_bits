@@ -62,3 +62,6 @@ Then complete the process outlined above. Write 2 headlines for each keyword.
 Do an extra search on Twitter to find out what words are being tagged
 for the same product type. Write 2 headlines with each trending keyword.
 
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

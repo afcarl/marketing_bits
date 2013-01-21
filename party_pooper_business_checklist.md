@@ -51,3 +51,6 @@ good ideas? Yes. Do I care? Not at all. I already have a good amount of business
 going on and have to be very skeptic about developing new ones.
 
 Hope this list helps you in some manner.
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

@@ -161,3 +161,5 @@ In reality, it all boils down to whatever works best for you. Find out by testin
 
 - Test the same headline with different typefaces. Includes **bold**, *italics*, and underlined. Note: markdown does not have a way to underline words. 
 
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

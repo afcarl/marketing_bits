@@ -52,3 +52,6 @@ Why does it come in one color?
 
 Like a 7 year old child, clients just ask *Why*? Make sure to answer properly.
 
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

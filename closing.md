@@ -155,3 +155,9 @@ Let's break it down.
 
 
 Remember, closing is about challenging their rejection, and pushing people to buy. Focus on why they are rejecting you (the objections), and close.
+
+
+
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

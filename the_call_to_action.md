@@ -25,3 +25,8 @@ Here is a basic example:
     Click on the orange button that says CHECKOUT.
     Remember: $Product name will help you with $problem in 30 days.
     Se Habla Espanol. 
+    
+    
+    
+    
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

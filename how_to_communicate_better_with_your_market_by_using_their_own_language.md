@@ -48,4 +48,7 @@ Visit the online communities your prospects visit. Read their content. Study
 the advertisements in their discussion forums, blogs and or other type of content platform.
 Write down the words you recognize as important. Research their meaning and save your findings.
 Include them in your landing page and test their effectiveness. 
- 
+
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

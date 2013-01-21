@@ -124,3 +124,6 @@ But I will not tell you more about it. Print a copy and study it. See how it wor
 
     Warning: the ads above have not been tested. Do not replicate with hopes of either one working. 
     They were only written to teach you about the slippery slide.
+    
+    
+ <a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

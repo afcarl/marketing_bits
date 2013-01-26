@@ -37,8 +37,7 @@ are important. People need to know that:
 - Testimonial length depends on your market. Test this metric. Sometimes one sentence is enough. Others need a whole paragraph (or even pages).
 - Always include the real name of the person giving the testimonial. Try and include their location. 
 - If possible, have the option to let prospective clients contact the clients in the testimonials. This does not work for everybody. Test it.
-- Include a picture of the person giving the testimonial. It tends to test positively.
-- 
+- Include a picture of the person giving the testimonial. It tends to test positively. 
 
 In a future newsletter article I will include a system to get automatic user testimonials.
 

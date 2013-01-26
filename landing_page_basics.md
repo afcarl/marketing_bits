@@ -87,3 +87,7 @@ Its never done. You will see the page evolve over time. Visit it from time to ti
 
 Landing pages are quite complex. But I want you to understand something. Your business sucess depends on that landing page.
 It should be your priority.
+
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

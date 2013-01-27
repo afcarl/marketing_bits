@@ -3,7 +3,7 @@ Need versus want.
 
 Do people need to purchase a new car every year? No. Do they want to drive the latest model? Yes.
 Why? The answer is fairly simple. People want the social status that a new car grants.
-Beign able to afford a new car gives the impression of wealth (whether you have it or not).
+Being able to afford a new car gives the impression of wealth (whether you have it or not).
 Wealth is one of the key vanities of society. 
 
 ##Don't sell products that people need. 

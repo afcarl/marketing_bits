@@ -77,7 +77,7 @@ Find out for yourself.
 Every startup that sells online should have the little lock image featured promonently. Are you certified for something? Show it off.
 Test the placement of every graphical element.
 
-##The marketing bits does not feature some of the things I mention here.
+####The marketing bits landing page does not feature some of the things I mention here.
 
 You are right. It does not feature some of the things here because its a work in progress. Your page should also be a work in progress.
 Its never done. You will see the page evolve over time. Visit it from time to time.

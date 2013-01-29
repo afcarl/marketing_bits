@@ -78,3 +78,6 @@ from that community in no time.
 
 This technique can be easily abused. Don't! 
 By sharing it I'm not encouraging anyone to spam people. Use it responsibly.
+
+
+<a href="http://orangethirty.github.com/marketing_bits">Don't miss the next Marketing Bits volume. Click here to request your free subscription. No spam. All securely handled by Mail Chimp.</a>

@@ -1,0 +1,648 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        
+        <!-- Facebook sharing information tags -->
+        <meta property="og:title" content="*|MC:SUBJECT|*" />
+        
+        <title>*|MC:SUBJECT|*</title>
+		<style type="text/css">
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			/* Template Styles */
+
+			/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: COMMON PAGE ELEMENTS /\/\/\/\/\/\/\/\/\/\ */
+
+			/**
+			* @tab Page
+			* @section background color
+			* @tip Set the background color for your email. You may want to choose one that matches your company's branding.
+			* @theme page
+			*/
+			body, #backgroundTable{
+				/*@editable*/ background-color:#FAFAFA;
+			}
+
+			/**
+			* @tab Page
+			* @section email border
+			* @tip Set the border for your email.
+			*/
+			#templateContainer{
+				/*@editable*/ border: 1px solid #DDDDDD;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 1
+			* @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+			* @style heading 1
+			*/
+			h1, .h1{
+				/*@editable*/ color:#202020;
+				display:block;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:34px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 2
+			* @tip Set the styling for all second-level headings in your emails.
+			* @style heading 2
+			*/
+			h2, .h2{
+				/*@editable*/ color:#202020;
+				display:block;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:30px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 3
+			* @tip Set the styling for all third-level headings in your emails.
+			* @style heading 3
+			*/
+			h3, .h3{
+				/*@editable*/ color:#202020;
+				display:block;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:26px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 4
+			* @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+			* @style heading 4
+			*/
+			h4, .h4{
+				/*@editable*/ color:#202020;
+				display:block;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:22px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: PREHEADER /\/\/\/\/\/\/\/\/\/\ */
+
+			/**
+			* @tab Header
+			* @section preheader style
+			* @tip Set the background color for your email's preheader area.
+			* @theme page
+			*/
+			#templatePreheader{
+				/*@editable*/ background-color:#FAFAFA;
+			}
+
+			/**
+			* @tab Header
+			* @section preheader text
+			* @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+			*/
+			.preheaderContent div{
+				/*@editable*/ color:#505050;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:10px;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Header
+			* @section preheader link
+			* @tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
+			*/
+			.preheaderContent div a:link, .preheaderContent div a:visited, /* Yahoo! Mail Override */ .preheaderContent div a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#336699;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: HEADER /\/\/\/\/\/\/\/\/\/\ */
+
+			/**
+			* @tab Header
+			* @section header style
+			* @tip Set the background color and border for your email's header area.
+			* @theme header
+			*/
+			#templateHeader{
+				/*@editable*/ background-color:#FFFFFF;
+				/*@editable*/ border-bottom:0;
+			}
+
+			/**
+			* @tab Header
+			* @section header text
+			* @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+			*/
+			.headerContent{
+				/*@editable*/ color:#202020;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:34px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ padding:0;
+				/*@editable*/ text-align:center;
+				/*@editable*/ vertical-align:middle;
+			}
+
+			/**
+			* @tab Header
+			* @section header link
+			* @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+			*/
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#336699;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:600px !important;
+			}
+
+			/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: MAIN BODY /\/\/\/\/\/\/\/\/\/\ */
+
+			/**
+			* @tab Body
+			* @section body style
+			* @tip Set the background color for your email's body area.
+			*/
+			#templateContainer, .bodyContent{
+				/*@editable*/ background-color:#FFFFFF;
+			}
+
+			/**
+			* @tab Body
+			* @section body text
+			* @tip Set the styling for your email's main content text. Choose a size and color that is easy to read.
+			* @theme main
+			*/
+			.bodyContent div{
+				/*@editable*/ color:#505050;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:14px;
+				/*@editable*/ line-height:150%;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Body
+			* @section body link
+			* @tip Set the styling for your email's main content links. Choose a color that helps them stand out from your text.
+			*/
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#336699;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+
+			/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: FOOTER /\/\/\/\/\/\/\/\/\/\ */
+
+			/**
+			* @tab Footer
+			* @section footer style
+			* @tip Set the background color and top border for your email's footer area.
+			* @theme footer
+			*/
+			#templateFooter{
+				/*@editable*/ background-color:#FFFFFF;
+				/*@editable*/ border-top:0;
+			}
+
+			/**
+			* @tab Footer
+			* @section footer text
+			* @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+			* @theme footer
+			*/
+			.footerContent div{
+				/*@editable*/ color:#707070;
+				/*@editable*/ font-family:Arial;
+				/*@editable*/ font-size:12px;
+				/*@editable*/ line-height:125%;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Footer
+			* @section footer link
+			* @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+			*/
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#336699;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			.footerContent img{
+				display:inline;
+			}
+
+			/**
+			* @tab Footer
+			* @section social bar style
+			* @tip Set the background color and border for your email's footer social bar.
+			* @theme footer
+			*/
+			#social{
+				/*@editable*/ background-color:#FAFAFA;
+				/*@editable*/ border:0;
+			}
+
+			/**
+			* @tab Footer
+			* @section social bar style
+			* @tip Set the background color and border for your email's footer social bar.
+			*/
+			#social div{
+				/*@editable*/ text-align:center;
+			}
+
+			/**
+			* @tab Footer
+			* @section utility bar style
+			* @tip Set the background color and border for your email's footer utility bar.
+			* @theme footer
+			*/
+			#utility{
+				/*@editable*/ background-color:#FFFFFF;
+				/*@editable*/ border:0;
+			}
+
+			/**
+			* @tab Footer
+			* @section utility bar style
+			* @tip Set the background color and border for your email's footer utility bar.
+			*/
+			#utility div{
+				/*@editable*/ text-align:center;
+			}
+
+			#monkeyRewards img{
+				max-width:190px;
+			}
+		</style>
+	</head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+    	<center>
+        	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">
+            	<tr>
+                	<td align="center" valign="top">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border="0" cellpadding="10" cellspacing="0" width="600" id="templatePreheader">
+                            <tr>
+                                <td valign="top" class="preheaderContent">
+                                
+                                	<!-- // Begin Module: Standard Preheader \ -->
+                                    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                    	<tr>
+                                        	<td valign="top">
+                                            	<div mc:edit="std_preheader_content">
+                                                	 The MVMP, Fork the Cookbook, and more.
+                                                </div>
+                                            </td>
+                                            <!-- *|IFNOT:ARCHIVE_PAGE|* -->
+											<td valign="top" width="190">
+                                            	<div mc:edit="std_preheader_links">
+                                                	Is this email not displaying correctly?<br /><a href="*|ARCHIVE|*" target="_blank">View it in your browser</a>.
+                                                </div>
+                                            </td>
+											<!-- *|END:IF|* -->
+                                        </tr>
+                                    </table>
+                                	<!-- // End Module: Standard Preheader \ -->
+                                
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer">
+                        	<tr>
+                            	<td align="center" valign="top">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
+                                        <tr>
+                                            <td class="headerContent">
+                                            
+                                            	<!-- // Begin Module: Standard Header Image \\ -->
+                                            	<img src="https://raw.github.com/orangethirty/marketing_bits/master/template/marketing_bits_logo.png" style="max-width:600px;" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowdesigner mc:allowtext />
+                                            	<!-- // End Module: Standard Header Image \\ -->
+                                            
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top">
+                                    <!-- // Begin Template Body \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
+                                    	<tr>
+                                            <td valign="top" class="bodyContent">
+                                
+                                                <!-- // Begin Module: Standard Content \\ -->
+                                                <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top">
+                                                            <div mc:edit="std_content00">
+                                                                <h1>The Miminim Viable Marketing Plan.</h1>
+
+<p>Everyone knows about the Minimum Viable Product (MVP). It has become
+a common used word in all startup related discussions. But there is another
+MV that few people realize exists: The Minimum Viable Marketing Plan (MVMP).</p>
+
+<h4>What is that!?</h4>
+
+<p>A marketing plan is a step by step breakdown of the system used to market your 
+busines and/or product. In simple words, a detailed description of how you 
+plan to market.</p>
+
+<p>The MVMP is the shortest marketing plan you can follow to <em>get results.</em></p>
+
+<h4>Minimal does not mean simple.</h4>
+
+<p>The MVMP does not need to be simple. Even though it is the <em>minimal</em>
+plan needed to market something. Realize that the minimal part reffers to 
+<em>what is the smallest combination of marketing tools/techniques that can
+be put to work towards selling your product.</em>
+
+<p>It also focuses on the <em>viable</em> aspect of marketing. Meaning that 
+every marketing tool/technique in the plan must be/have been proven to work. No excuses.</p>
+
+<h4>Defining the MVMP</h4>
+
+<p>With that in mind we can the define the MVMP as:</p>
+
+<p><strong>The shortest marketing plan that has been tested to continually work and produce sales.</strong></p>
+
+
+<h4>The focus of the MVMP is to eliminate waste.</h4>
+
+<p>Bad marketing produces a lot of waste. Big quantities of money and time are lost everyday 
+due to it. The MVMP aims to reduce that waste to as close to zero as possible.</p>
+
+<p>That is why you should implement an MVMP in your startup. Failure to do so will have
+you throwing away your money.</p>
+
+<h4>The MVMP is powered by testing.</h4>
+
+<p>At the heart of the MVMP is testing. It follows the same pattern of the Lean Startup,
+but applied to marketing. Instead of Build-Measure-Learn, it is Market-Measure-Learn.</p>
+
+<p>Testing is used to find out what combination of marketing tools/technique work 
+in your market. That is the loop is defined as Market-Measure-Learn. This is the heart
+if the MVMP. You cannot successfully create one without the loop.</p>
+
+<h4>The MVMP work flow.</h4>
+
+<p>In the MVMP the loop is applied to everything. Let's say you are testing 
+an email campaign to promote a special offer. The MML loop calls for a way to 
+measure the results. Thus, you include analytics into your campaign. Mail Chimp
+and other email marketing products offer this.</p>
+
+<p>The comes the learning part, which can be pretty tough to deal with sometimes.
+Learning in marketing requires multiple tests of the same marketing tool/technique
+to prove its effectiveness. So you market, measure, market and measure again, and again.
+And once you ar egetting consistent results after testing you can then learn what it is that works.</p>
+
+<p>You will learn from every test, but don't let it sway you towards one side or another.
+One test can result in one thing, and other with another. That is why you repeat
+the tests many times to confirm that what you are learning is based on scientific results.</p>
+
+<h4>How to write an MVMP.</h4>
+
+<p>This is quite the complex subject. I will cover it in a future volume of Marketing Bits.
+Why not now? Because you have to learn about the Sales Ladder first. In the next volume I will
+explain what a sales ladder is and then we can get back to the MVMP.</p>
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                <hr>
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                <h2>UX, Testing and More!</h2>
+
+<p>
+<a href="http://forkthecookbook.com">Fork the Cookbook</a>  is a personal cookbook for recipes. People have likened it to Github for recipes. We encourage users to fork recipes into their personal cookbooks, work on their own variations; then share it with the world.</p>
+<p>
+Conceptually most webapps are the same: they're all CRUD applications. The UI on the browser serves as an interface for the user to create, retrieve, update and/or delete things off a database. We believe what sets good and bad services apart is the user experience.</p>
+
+<p>User experience is quite important to us in Fork the Cookbook, and we've actually postponed several features being publicly launched until we can nail the fundamental UX of the feature. Here are some bits of the process we use.</p>
+
+<h4>Start with a Target Action In Mind</h4>
+
+<p>Our design process for Fork the Cookbook can best be described as a top-down process. For each interaction, we started by asking the question "what do we want the user to do with this feature?" The question is then unravelled by asking more questions about the requirements of the target action. For example, "what other interactions are required if I want the average user to do X with this feature". Interactions are then conceptualized as flows, which is to say what the user experiences from point A (start of interaction) to point Z (end of interaction). At each point in the flow, optimizations and decisions have to be made, therefore having a big picture target action in mind is often very useful. We try not to make decisions or optimize points in a flow where we believe the big picture target action will not be affected.</p>
+
+<p>Let's bring this thought process to more concrete terms. Fork the Cookbook is built around the concept of forking. If you're reading this on Github, you're no stranger to forking - you know the rules and so do I. Forking is quite simple conceptually: Retrieve a database entry, create a duplicate entry in the database and then display the duplicate entry to the user, let the user make modifications to the entry, then upon modification, update the duplicated entry. So an example of starting with a target in mind is asking the question: "how do we get users to fork a recipe?" </p>
+
+<h4>Unravel the Question of Targets</h4>
+
+<p>The question "How do we get users to fork a recipe" is a loaded one. The loaded question must be unravelled. For example, immediately a question could be formed: what is the interaction flow like? There are numerous interaction flows we considered and tested, but here are the primary two contenders.</p>
+
+<p>One forking interaction would be like this: User clicks on the Fork button. A database entry is then created for them and the recipe can be found in User's personal cookbook. User is then redirected to the forked recipe, and are invited to edit the forked recipe.</p>
+
+<p>Another forking interaction would be like this: User clicks on the Fork button. User is redirected to a page, inviting them to edit the recipe. If User clicks Save, a new entry is created in their repository.</p>
+
+<p>To the user there is no difference between both flows. All the user sees after clicking the Fork button is a form inviting the user to edit the recipe. The difference however, lies with whether the forked recipe is created before or after the User edits the recipe (if the user edits the recipe). While we geeks are probably used to the first behaviour (i.e. when the Fork button is clicked, the database entry is duplicated), in our tests, we discovered that our users were confused as to why a recipe had appeared in their profiles despite not clicking Save.</p>
+
+<p>The second flow was not without flaws, however. Our tests also showed that users had a very slightly higher rate of abandoning their flow compared to other flows. It was within our acceptable error margins, so we ultimately went with that flow.</p>
+
+<h4>Test All The Things, All The Time</h4>
+
+<p>This leads to the topic of testing. It has been said over and over again, to test test test. Although that has become the new conventional wisdom, rarely do people execute tests correctly. Many times have I seen ill-intepreted statistics being used to make decisions. Do yourself a favour, and pick up your favourite statistics guide (I personally found the Manga Guide to Statistics whimsical, and fun to read), and learn the math. </p>
+
+<p>A major pitfall that even we fall into at Fork the Cookbook is the whole idea of testing all the time. Sure, we test features and design changes all the time, but a series of events yesterday reminded us sorely that even though a decision has been made, it's often good to go back after some time to retest the decision. Demographics change over time, and I think it's quite important to go back and retest the assumptions. The following anecdote combines a few lessons.</p>
+
+<p>Fork the Cookbook uses a login system that uses a one-time password. All the user needs to do is enter their emails, which the system will then email them a one-off PIN. Upon receiving the PIN, users can either click on a link to sign in, or type in the PIN in a page in Fork the Cookbook. This system was inspired by Mozilla's Persona and the majority of banks in Australia which implement a similar system (banks use RSA fobs though). After entering their email addresses and submitting the form, users are redirected to a page, explaining to them what the process is like. The page also contains a text box for the users to type in their PINs when they receive it.</p>
+
+<p>Yesterday, an alarm sounded when there was a higher-than-expected number of users who had failed to complete the sign in process. We had expected 15 non-follow-throughs per 24 hours and had set that number as a threshold. Intrigued, we decided to track down the problem, initially thinking it was a bug in our sign in system. After several hours of manual testing, we couldn't discover the flaws, so we decided to turn to our trusty old tool: ask the users why they had not completed the sign ins.</p>
+
+<p>What we discovered could not be more interesting. We engaged with the users over email. We asked them several questions as to why they didn't or couldn't complete a sign up/sign in. After much questioning, it turns out 12 out of 16 users didn't understand the flow at all!</p>
+
+<p>Despite an explanation of the sign in flow being explicitly written, the presence of a textbox asking for a user's PIN automatically makes the users think that the system is asking them to provide a password. Which they did. They had not understood that the system would provide them with a one-off PIN to use. We estimated we had lost about 40 - 50 sign ups over the past 3 weeks due to this UX flaw.</p>
+
+<h4>So How Did We Get It So Wrong? </h4>
+
+<p>It's rather easy to implement a username/email - password type of sign in system. However, we had other considerations in mind when we decided to implement a one-time password system. From a UX perspective, it's a far better thing to do than requiring the user to remember a password. One-time passwords are also technically more secure (can't help you with man-in-the-middle attacks though). Here, I will be candid and admit that we did not test the UX difference between password and one-time passwords. We had originally decided to go with Mozilla Persona. But user testing indicated it was very difficult to explain the idea of Mozilla Persona to the average non-technical user.</p>
+
+<p>Wait, you ask: how is it difficult to explain Mozilla Persona and not difficult to explain one-time passwords? The answer has got to do with our user testing methodologies. But first, a brief explanation of how we did user testing: I went out and hung out at Sydney's Central Station with a phone or a laptop, and approached people. I set a list of basic tasks for users to do, hand them the phone or laptop and then recorded the clicks and mouse movements. It was very tedious just to collect a large-enough sample size to have a meaningful result, and given the opportunity, I'll never do it again. </p>
+
+<p>Because the user testing was a very high touch activity, it was often easier to explain in person and analogize the one-time pass to bank security fobs. But when we tested Mozilla Persona earlier, we had not been as high touch. </p>
+
+<p>There is another reason why we got it so wrong. We had beta tested Fork the Cookbook internally for about 3 months before even setting it live. Our beta testers were a carefully selected bunch of users whom closely represented our ideal target market. The problem? They had been briefed about how the one-time password works. I would wager that had we not briefed them, we would have detected this problem much much earlier.</p>
+
+<p><strong>The main lesson to be learned here is that inconsistent methods of testing yields pain.</strong></p>
+
+<h4.What To Do About It?</h4>
+
+<p>We're not sure actually. On the one hand, we feel that one-time passwords are far more elegant a solution (and supposedly more secure too). On the other hand, the users are not familiar with it. There are two paths: change the sign in / sign up system; or educate the users as we go along. It is a decision to make with many pros and cons lists involved. Clearly our methodologies have to be updated too (thankfully no more interacting with humans on train platforms). And most importantly, we have to test the ideas. Let the data speak.</p>
+
+<p>UX design is often about choices. In this article I have talked about two choices we've had to make - the Forking flow, which we think is the right choice we made, and the Sign In flow, which is not quite right in our opinion. Often the choice is between a dark pattern and user comfort. Ultimately, what we want is for users to have the best experience researching recipes, storing recipes and forking recipes. We are not there yet, and we plan to improve every step of the way. You should check out Fork the Cookbook (http://forkthecookbook.com) and tell me what you think about it!</p>
+
+<p><em>Xuanyi Chew - founder of <a href="http://forkthecookbook.com">Fork the Cookbook</a>  </em> 
+<a href="https://twitter.com/chewxy">Follow him on twitter: @chewxy</a></p>
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                <hr>
+                                                              <!--  <img src="">   advertisement for guest-->
+                                                                
+                                                                <h2 class="h2">Including a testimonial in the <br>Marketing Bits landing page increased conversions 72%.</h2>
+                                                                <p>You read that right. One testimonial increased conversions 72%. Increasing the size, traction, and growth of the list to great levels.</p>
+                                                                
+                                                                <p>Its no secret that the Marketing Bits lading page is a bit disastrous and not optimized. Why is that? Because I'm developing the MVMP for Marketing Bits. I'm constantly testing different factors to measure what works and what doesn't. So far, I know that people wanted the social proof that a testimonial gives them. It makes sense because you don't want to subscribe to some spammy newsletter. You don't even want to subscribe to a newsletter. What you want is to learn about marketing that works. Marketing Bits is that. I just had to let you know that others find it extremely valuable.</p>
+                                                                
+                                                                <p>Go ahead and include testimonials on your page. Put them where 
+                                                                visitors can see them without scrolling down. Test and be blown away.
+                                                                </p>
+                                                                
+                                                                <p><strong>Protip:</strong> You should also include the social buttons on top of the website if possible. Those are indirect testimonials and count as social proof too.</p>
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                <hr>
+                                                                
+                                                                <h4 class="h4">Interesting Bit</h4>
+                                                                <p><a href="http://en.wikipedia.org/wiki/Jaguar_XJ220">The Jaguar XJ220</a> used a turbocharged engine derived from Formula 1 to propel it to over 200MPH.</p>
+                                                                
+                                                                <h2 class="h2">Want to Hack your Growth?</h2>
+                                                                <p>I'm available for consultations. <a href="">Download</a> your new client guide to learn more.</p>
+                                                                <hr>
+                                                                
+      
+                                                            
+                                                            </div>
+														</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standard Content \\ -->
+                                                
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top">
+                                    <!-- // Begin Template Footer \\ -->
+                                	<table border="0" cellpadding="10" cellspacing="0" width="600" id="templateFooter">
+                                    	<tr>
+                                        	<td valign="top" class="footerContent">
+                                            
+                                                <!-- // Begin Module: Standard Footer \\ -->
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" id="social">
+                                                            <div mc:edit="std_social">
+                                                                &nbsp;<a href="*|TWITTER:PROFILEURL|*">follow on Twitter</a> | <a href="*|FACEBOOK:PROFILEURL|*">friend on Facebook</a> | <a href="*|FORWARD|*">forward to a friend</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" width="350">
+                                                            <div mc:edit="std_footer">
+																<em>Copyright &copy; *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em>
+																<br />
+																*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+																<br />
+																<strong>Our mailing address is:</strong>
+																<br />
+																*|HTML:LIST_ADDRESS_HTML|**|END:IF|* 
+                                                            </div>
+                                                        </td>
+                                                        <td valign="top" width="190" id="monkeyRewards">
+                                                            <div mc:edit="monkeyrewards">
+                                                                *|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" id="utility">
+                                                            <div mc:edit="std_utility">
+                                                                &nbsp;<a href="*|UNSUB|*">unsubscribe from this list</a> | <a href="*|UPDATE_PROFILE|*">update subscription preferences</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standard Footer \\ -->
+                                            
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+
